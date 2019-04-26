@@ -1,0 +1,163 @@
+body
+{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+body .screen
+{
+    background-image: url("../photo/rsz_back1.jpg");
+    @background-position: center;
+    @background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+body .screen  .container
+{
+    width: 1000px;
+    margin:auto;
+}
+body .screen  .cityHead
+{
+    margin: 30px ;
+    color: snow;
+    opacity: .99;
+    width: 100%;
+    font-size:40px;
+    font-weight: normal;
+    text-align: center;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+
+}
+body .screen  .card
+{
+   background-color: black;
+   height: 480px;
+    width:85%;
+    margin: 0 auto 0 auto;
+    display: flex;
+    opacity: .95;
+
+}
+
+body .screen  .card .part1
+{
+    width: 60%;
+    background-image: url("../photo/back2.jpg");
+
+}
+body .screen  .card .part1 h1
+{
+    color: azure;
+    direction: rtl;
+    margin: 30px 40px 0  0 ;
+    font-weight: normal;
+}
+body .screen  .card .part1  h4
+{
+    color: azure;
+    direction: rtl;
+    margin: 10px 50px 0  0 ;
+    font-weight: normal;
+}
+body .screen  .card .part1 .info
+{
+    display: flex;
+    color: azure;
+    margin: 60px auto 0 auto;
+    width: 80%;
+
+}
+body .screen  .card .part1 .info .temp
+{
+    font-size: 100px;
+    margin: 0;
+}
+body .screen  .card .part1 .info .time
+{
+    font-size: 30px;
+    margin: 0 0 0 60px;
+
+}
+body .screen  .card .part1 .info .time p
+{
+    margin: 18px 0 0 0;
+}
+body .screen  .card .part1 .info .time span
+{
+    font-size: 13px;
+}
+body .screen  .card .part2
+{
+    width: 40%;
+
+}
+body .screen  .card .part2 img
+{
+    width: 180px;
+    height: 180px;
+   display: block;
+    margin: 0 auto;
+}
+body .screen  .card .part2 .weatherStatue
+{
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    border-bottom: solid .2px gray;
+    width: 80%;
+    padding-bottom: 10px;
+    font-size: 40px;
+    font-weight: normal;
+}
+body .screen  .card .part2 ul
+{
+    padding: 0;
+    margin: 20px auto 0 auto;
+    display: block;
+    list-style: none;
+    color: azure;
+    width: 80%;
+}
+body .screen  .card .part2 li
+{
+    margin-bottom: 15px;
+    border-bottom: solid .2px gray;
+    padding-bottom: 10px;
+    padding-left: 18px;
+}
+body .screen  .card .part2 li:last-child
+{
+    border: none;
+}
+body .screen  .card .part2 li span
+{
+    float: right;
+    padding-right: 20px
+}
+body .screen .link
+{
+    position: absolute ;
+    left: 0 ;
+    top: 300px;
+    height: 50px ;
+    background-color: black ;
+    width: 150px;
+	opacity:.9;
+
+}
+body .screen .link a
+{
+    text-decoration: none;
+    color: azure;
+    position: relative;
+    top: 13px;
+    left: 8px;
+    font-weight: bold;
+}

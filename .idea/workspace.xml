@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8380fbdf-461a-4411-a4a8-2c96dd4d8109" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1587692999">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="php" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/models/weatherModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/weather/CurrentWeather.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/weather.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="943">
+              <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/views/advice/1.php" />
+        <option value="$PROJECT_DIR$/app/views/advice/main.php" />
+        <option value="$PROJECT_DIR$/public/css/advice1.css" />
+        <option value="$PROJECT_DIR$/app/views/advice/select1.php" />
+        <option value="$PROJECT_DIR$/app/views/learning/select7332.php" />
+        <option value="$PROJECT_DIR$/app/views/advice/select8410.php" />
+        <option value="$PROJECT_DIR$/app/views/cars/select2368.php" />
+        <option value="$PROJECT_DIR$/app/views/cars/select9786.php" />
+        <option value="$PROJECT_DIR$/app/views/accidents/select4951.php" />
+        <option value="$PROJECT_DIR$/app/views/accidents/select9663.php" />
+        <option value="$PROJECT_DIR$/app/template/templatefooter.php" />
+        <option value="$PROJECT_DIR$/app/views/accidents/select5847.php" />
+        <option value="$PROJECT_DIR$/app/views/site/main.php" />
+        <option value="$PROJECT_DIR$/app/views/site/support.php" />
+        <option value="$PROJECT_DIR$/app/views/site/about.php" />
+        <option value="$PROJECT_DIR$/app/template/templatenav.php" />
+        <option value="$PROJECT_DIR$/app/template/templatenavII.php" />
+        <option value="$PROJECT_DIR$/public/js/main.js" />
+        <option value="$PROJECT_DIR$/app/controllers/site.php" />
+        <option value="$PROJECT_DIR$/app/views/postcontrol/add.php" />
+        <option value="$PROJECT_DIR$/app/controllers/accidents.php" />
+        <option value="$PROJECT_DIR$/app/controllers/advice.php" />
+        <option value="$PROJECT_DIR$/app/controllers/cars.php" />
+        <option value="$PROJECT_DIR$/app/controllers/exams.php" />
+        <option value="$PROJECT_DIR$/app/controllers/learning.php" />
+        <option value="$PROJECT_DIR$/app/controllers/wrongs.php" />
+        <option value="$PROJECT_DIR$/app/template/templateheadstart.php" />
+        <option value="$PROJECT_DIR$/public/css/main.css" />
+        <option value="$PROJECT_DIR$/app/views/learning/selectmain.php" />
+        <option value="$PROJECT_DIR$/public/css/departmain.css" />
+        <option value="$PROJECT_DIR$/app/views/accidents/selectmain.php" />
+        <option value="$PROJECT_DIR$/app/views/advice/selectmain.php" />
+        <option value="$PROJECT_DIR$/app/views/cars/selectmain.php" />
+        <option value="$PROJECT_DIR$/app/views/exams/selectmain.php" />
+        <option value="$PROJECT_DIR$/app/views/wrongs/selectmain.php" />
+        <option value="$PROJECT_DIR$/app/template/templatebodystart.php" />
+        <option value="$PROJECT_DIR$/files/data.txt" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/app/controllers/postcontrol.php" />
+        <option value="$PROJECT_DIR$/app/paths.php" />
+        <option value="$PROJECT_DIR$/app/controllers/abstract_.php" />
+        <option value="$PROJECT_DIR$/app/views/notfound/noview.php" />
+        <option value="$PROJECT_DIR$/app/views/weather/city.php" />
+        <option value="$PROJECT_DIR$/app/lib/autoload.php" />
+        <option value="$PROJECT_DIR$/app/views/weather/noweather.php" />
+        <option value="$PROJECT_DIR$/app/views/weather/EnterCity.php" />
+        <option value="$PROJECT_DIR$/app/views/weather/NoWeather.php" />
+        <option value="$PROJECT_DIR$/app/models/weather.php" />
+        <option value="$PROJECT_DIR$/app/views/weather/CurrentWeather.php" />
+        <option value="$PROJECT_DIR$/app/lib/control_Url.php" />
+        <option value="$PROJECT_DIR$/app/controllers/weather.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1380" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="weather App" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weather App" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weather App" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weather App" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weather App" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weather App" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weather App" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weather App" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mahmoud\Desktop\weather App\app\controllers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mahmoud\Desktop\wwwroot\app\views\accidents" />
+      <recent name="C:\Users\Mahmoud\Desktop\wwwroot\app\views\wrongs" />
+      <recent name="C:\Users\Mahmoud\Desktop\wwwroot\app\views\learning" />
+      <recent name="C:\Users\Mahmoud\Desktop\wwwroot\app\views\exams" />
+      <recent name="C:\Users\Mahmoud\Desktop\wwwroot\app\views\cars" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8380fbdf-461a-4411-a4a8-2c96dd4d8109" name="Default" comment="" />
+      <created>1516529780693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516529780693</updated>
+      <workItem from="1516529782531" duration="15512000" />
+      <workItem from="1516567033152" duration="9315000" />
+      <workItem from="1516634574366" duration="37863000" />
+      <workItem from="1516748014521" duration="593000" />
+      <workItem from="1516793431623" duration="10344000" />
+      <workItem from="1516820565650" duration="19524000" />
+      <workItem from="1516885031033" duration="10449000" />
+      <workItem from="1516897083338" duration="1570000" />
+      <workItem from="1516967706560" duration="1253000" />
+      <workItem from="1519613925788" duration="5247000" />
+      <workItem from="1519631092600" duration="6451000" />
+      <workItem from="1519649226181" duration="634000" />
+      <workItem from="1519651026702" duration="491000" />
+      <workItem from="1527112288520" duration="213000" />
+      <workItem from="1549093987085" duration="648000" />
+      <workItem from="1549290264274" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="120188000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14474554" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329653" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/views/advice/select3095.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/accidents/select5847.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/accidents/select7333.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/accidents/select5276.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/accidents/select55.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/accidents/select3573.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/accidents/select2054.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/site/main.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/site/about.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/site/support.php" />
+    <entry file="file://$PROJECT_DIR$/app/template/templatenavII.php" />
+    <entry file="file://$PROJECT_DIR$/app/template/templatenav.php" />
+    <entry file="file://$PROJECT_DIR$/public/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/app/controllers/site.php" />
+    <entry file="file://$PROJECT_DIR$/app/controllers/cars.php" />
+    <entry file="file://$PROJECT_DIR$/app/controllers/exams.php" />
+    <entry file="file://$PROJECT_DIR$/app/controllers/learning.php" />
+    <entry file="file://$PROJECT_DIR$/app/controllers/wrongs.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/accidents/select7885.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/accidents/select7264.php" />
+    <entry file="file://$PROJECT_DIR$/app/template/templateheadstart.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/accidents/select725.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/advice/select5596.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/wrongs/selectmain.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/learning/selectmain.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/exams/selectmain.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/cars/selectmain.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/advice/selectmain.php" />
+    <entry file="file://$PROJECT_DIR$/public/css/departmain.css" />
+    <entry file="file://$PROJECT_DIR$/app/controllers/advice.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/accidents/selectmain.php" />
+    <entry file="file://$PROJECT_DIR$/public/css/main.css" />
+    <entry file="file://$PROJECT_DIR$/app/controllers/accidents.php" />
+    <entry file="file://$PROJECT_DIR$/app/template/templatebodystart.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/postcontrol/add.php" />
+    <entry file="file://$PROJECT_DIR$/files/data.txt" />
+    <entry file="file://$PROJECT_DIR$/app/controllers/postcontrol.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/notfound/notfound.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/notfound.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/paths.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/notfound/noview.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lib/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/styleNoView.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/weather/NoWeather.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/weather/EnterCity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/abstract_.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lib/control_Url.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/weatherModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/weather/CurrentWeather.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/weather.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="943">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

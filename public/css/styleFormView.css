@@ -1,0 +1,76 @@
+body
+{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+body .screen
+{
+    background-image: url("../photo/rsz_back1.jpg");
+    @background-position: center;
+    @background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body .screen .overlay
+{
+    height: 100%;
+    /*background-color:red;*/
+    /*opacity: .3;*/
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+body .screen .overlay .container
+{
+    width: 1000px;
+    margin:auto;
+}
+body .screen .overlay h1
+{
+    margin: 30px 0 15px 0;
+    color: white;
+    width: 100%;
+    font-size:45px;
+    font-weight: normal;
+    text-align: center;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+
+}
+body .screen .overlay .card
+{
+   background-color: black;
+   height: 460px;
+    width:85%;
+    margin: 0 auto 0 auto;
+    display: flex;
+    opacity: .95;
+}
+body .screen .overlay .card  form
+{
+    width: 100%;
+    display: flex;
+}
+
+body .screen .overlay .card  form input
+{
+
+    width:45%;
+    margin: auto auto;
+    background-color: darkslategray;
+    border: solid 2px darkslategray;
+    border-radius: 2px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: azure;
+    height: 40px;
+    text-align: center;
+
+}
+body .screen .overlay .card  form .sub
+{
+    width:20%;
+}

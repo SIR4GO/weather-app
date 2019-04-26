@@ -1,0 +1,90 @@
+ #<!-- الحمد لله حلت مشكلة هنا عشان اعمل لينك لملف Css او  Js لازم تاخد بالك ان htaccess. يحول كل مسارات ملفات . php.  في مكان ملف index هو  public فا مفيش داعي اعمل كدا public/css/mycss1.css  اخر شي يجب وضع absluote path ==> /  قبل مسار css/mycss1.css/   #
+
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /index.php
+
+
+#
+#RewriteEngine On
+#RewriteRule .*$ index.php
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteRule ^(.*)$ index.php [QSA,L]
+
+
+
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
+RewriteCond %{REQUEST_URI} !-l
+RewriteCond %{REQUEST_FILENAME} !\.(ico|css|png|jpg|gif|js)$ [NC]
+RewriteRule ^(.*)$ index.php [QSA,L]
+
+
+#
+#
+#AddType text/css css .css
+#
+#
+#
+###  Can be commented out if causes errors, see notes above.
+#Options +FollowSymLinks
+#
+##Folder indexing
+#Options -Indexes
+#
+##  mod_rewrite in use
+#
+#RewriteEngine On
+#
+########### Begin - Rewrite rules to block out some common exploits
+### If you experience problems on your site block out the operations listed below
+##
+### Deny access to extension xml files (uncomment out to activate)
+##<Files ~ "\.xml$">
+#    #Order allow,deny
+#    #Deny from all
+#    #Satisfy all
+##</Files>
+#
+##Secure access to php files except from index.php,proxy_get.php,proxy_post.php
+#<FilesMatch "\.php$">
+#    Order Allow,Deny
+#    Deny from all
+#</FilesMatch>
+##Allow access only to index files of each folder.
+#<FilesMatch "^(index)\.php$">
+#    Order Allow,Deny
+#    Allow from all
+#</FilesMatch>
+#
+#
+#RewriteCond %{QUERY_STRING} mosConfig_[a-zA-Z_]{1,21}(=|\%3D) [OR]
+## Block out any script trying to base64_encode crap to send via URL
+#RewriteCond %{QUERY_STRING} base64_encode.*\(.*\) [OR]
+## Block out any script that includes a <script> tag in URL
+#RewriteCond %{QUERY_STRING} (\<|%3C).*script.*(\>|%3E) [NC,OR]
+## Block out any script trying to set a PHP GLOBALS variable via URL
+#RewriteCond %{QUERY_STRING} GLOBALS(=|\[|\%[0-9A-Z]{0,2}) [OR]
+## Block out any script trying to modify a _REQUEST variable via URL
+#RewriteCond %{QUERY_STRING} _REQUEST(=|\[|\%[0-9A-Z]{0,2})
+## Send all blocked request to homepage with 403 Forbidden error!
+#RewriteRule ^(.*)$ index.php [F,L]
+#
+#
+##  Uncomment following line if your webserver's URL
+##  is not directly related to physical file paths.
+#
+## RewriteBase /
+#
+#
+########### Core sef Section
+## Index.php is the only gateway to the webapp
+## If the request is for a real directory (one that exists on the server), index.php isn't served.
+#RewriteCond %{REQUEST_FILENAME} !-f
+##If the request is for a file that exists already on the server, index.php isn't served.
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule ^(.*)$ index.php?rt=$1 [L,QSA]
